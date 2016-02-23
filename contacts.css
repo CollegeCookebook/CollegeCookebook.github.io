@@ -1,5 +1,4 @@
 .jumbotron {
   background-image: url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.10.33.13.PM.png'), url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.10.34.02.PM.png');
-  background-position: right, left;
-  background-size: cover;
+  background-size: 100% 100%;
 }
