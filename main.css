@@ -80,6 +80,19 @@
     to {background-image:url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.8.25.33.PM.png');}
     from {background-image:url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.8.25.45.PM.png');}
 }
+.nutrition {
+    background-color: floralwhite;
+}
+.nutrition h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Shift', sans-serif;
+}
+.nutrition li {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Shift', sans-serif;
+}
 .recipe h2 {
     color: blueviolet;
     font-size: 70px;
