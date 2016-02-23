@@ -67,7 +67,7 @@
     height: 500px;
     position: relative;
     background-size: 1600px 1000px;
-    background-image:url('http://dreamatico.com/data_images/cake/cake-8.jpg');
+    background-image:url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.8.25.33.PM.png');
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 16s; /* Chrome, Safari, Opera */
     animation-name: example;
@@ -77,8 +77,8 @@
 }
 /* Chrome, Safari, Opera */
 @-webkit-keyframes example {
-    to {background-image:url('http://dreamatico.com/data_images/cake/cake-8.jpg');}
-    from {background-image:url('http://www.finecooking.com/CMS/uploadedimages/Images/Cooking/Articles/Issues_111-120/051119082-01-chocolate-layer-cake-recipe_xlg.jpg');}
+    to {background-image:url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.8.25.33.PM.png');}
+    from {background-image:url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.8.25.45.PM.png');}
 }
 .recipe h2 {
     color: blueviolet;
