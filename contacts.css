@@ -1,4 +1,61 @@
-.jumbotron {
-  background-image: url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.10.33.13.PM.png'), url('https://raw.githubusercontent.com/CollegeCookebook/CollegeCookebook.github.io/master/images/Screen.Shot.2016-02-22.at.10.34.02.PM.png');
-  background-size: 100% 100%;
+.information {
+    background-color: floralwhite;
+    background-size: 100% 100%;
+}
+.information .thumbnail {
+    margin: none;
+    padding: none;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.information .thumbnail h4 {
+    font-family: Shift, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 29px;
+    color: #FEE;
+    text-shadow: 0 1px 8px rgba(250, 250, 250, .5);
+    position: absolute;
+    top: 0;
+    text-align: center;
+}
+.information1 {
+    background-color: floralwhite;
+    background-size: 100% 100%;
+}
+.information1 .thumbnail {
+    margin: none;
+    padding: none;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    right: 8px;
+}
+.information1 .thumbnail img {
+    width: 400px;
+}
+.information1 .thumbnail h4 {
+    font-family: Shift, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 29px;
+    color: #F01;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, .5);
+    position: absolute;
+    top: 0;
+    text-align: center;
+}
+.information1 p {
+    font-family: Shift, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+.information p {
+    font-family: Shift, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+.opening h1 {
+    text-align: center;
 }
